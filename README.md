@@ -41,6 +41,7 @@ bun start
 
 **Done! Wallet Generator is live. 🔐**
 
+Claim Faucet - (https://faucet.octra.network/)
 
 ---
 # 🪙 TASK 1 : TOKEN TRANSFER
